@@ -1,4 +1,4 @@
-# Deg-Breed-classifier-using-CNNs
+# Dog-Breed-classifier-using-CNNs
 In this project, I have bult a pipeline to process real-world, user supplied images. A pipeline that can be used within a web or mobile app. Given an image of a dog, our algorithm will idenity an estimate of the canine's breed. If supplied an image of a human, the code will identify the resembling dog breed. This project was a part of udacity's deep learning Nanodegree.
 
 - The datasets that we are using is of [dogs](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) and [humans](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip) to distinguish between them.
